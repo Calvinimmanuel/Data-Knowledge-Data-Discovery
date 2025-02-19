@@ -2,14 +2,7 @@
 
 How to use
 - dowload the file
-- run live priview in vscode
-- and you can see my portfolio, which I created using html
+- run in vscode
+- and you can see my Data-Knowledge-Data-Discovery with dataset Ship Performance Clustering Dataset
 
-Feature HTML : 
-- header
-- paragraph
-- formating teks
-- list
-- image
-- hypelink
-- tabel
+Feature 
